@@ -23,6 +23,9 @@ zstyle ':completion:*' menu select=1
 zstyle 'completion:*:default' list-promt '%p'
 
 
+
+
+
 source /home/expouser/.config/zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /home/expouser/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 fpath+=/home/expouser/.config/zsh/zsh-completions/zsh-completions.plugin.zsh
